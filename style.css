@@ -33,7 +33,7 @@ body{
 }
 
 .description{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     color: var(--text);
     width: 400px;
     text-align: center;
@@ -43,7 +43,8 @@ body{
     display: block;
     border-left: 4px solid var(--border);
     border-radius: 10px;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
+    padding: 3px 0 3px 8px;
 }
 
 .color-input-container{
